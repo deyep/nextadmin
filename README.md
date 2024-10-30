@@ -1,3 +1,9 @@
+## About
+
+This project is training for me from YouTube Lama Dev channel.
+
+[Next.js 14 Admin Dashboard Tutorial | Fullstack Next.js 14 Project with Server Actions](https://www.youtube.com/watch?v=cBg6xA5C60s)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
